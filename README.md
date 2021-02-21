@@ -7,4 +7,6 @@ The thing is that when you have a pdf with permissions of only lecture google dr
 2. Go to the last page of the pdf
 3. Ctrl + Shift + I
 4. Select console mode
-5. paste 
+5. paste code.js code
+
+It depends form where are you trying to download the pdf, in some browsers it will install automaticly and in others you will have the button to install it
